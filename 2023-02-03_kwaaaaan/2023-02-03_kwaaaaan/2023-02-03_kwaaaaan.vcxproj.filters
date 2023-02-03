@@ -18,5 +18,8 @@
     <ClCompile Include="2023-02-03_1st.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2023-02-03_2nd.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
