@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "학점계산기", "학점계산기\학점계산기.vcxproj", "{0A9BBB2D-7E94-49CB-A260-FB518FC6BB2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A9BBB2D-7E94-49CB-A260-FB518FC6BB2C}.Debug|x64.ActiveCfg = Debug|x64
+		{0A9BBB2D-7E94-49CB-A260-FB518FC6BB2C}.Debug|x64.Build.0 = Debug|x64
+		{0A9BBB2D-7E94-49CB-A260-FB518FC6BB2C}.Debug|x86.ActiveCfg = Debug|Win32
+		{0A9BBB2D-7E94-49CB-A260-FB518FC6BB2C}.Debug|x86.Build.0 = Debug|Win32
+		{0A9BBB2D-7E94-49CB-A260-FB518FC6BB2C}.Release|x64.ActiveCfg = Release|x64
+		{0A9BBB2D-7E94-49CB-A260-FB518FC6BB2C}.Release|x64.Build.0 = Release|x64
+		{0A9BBB2D-7E94-49CB-A260-FB518FC6BB2C}.Release|x86.ActiveCfg = Release|Win32
+		{0A9BBB2D-7E94-49CB-A260-FB518FC6BB2C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C302459F-97F2-4F69-8A77-F106FB1ADFD7}
+	EndGlobalSection
+EndGlobal
